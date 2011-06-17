@@ -1,5 +1,5 @@
 # include<stdio.h>
 void main()
 {
-	printf("Not Found!!!");
+	printf("Not Found!!");
 }
